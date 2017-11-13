@@ -5,4 +5,8 @@ __pycache__/
 *.p
 *.tar.gz
 cifar-10-batches-py/
+checkpoint
+*.index
+*.meta
+*.data*
 
